@@ -1,4 +1,4 @@
-# cryptopals
+Cryptopals
 
 Crypto Challenge Set 1
 
